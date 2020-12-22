@@ -144,3 +144,10 @@
     a:active,a:focus,a:hover{
         color:#824027
     }
+    
+    #descricao{
+        height: 0px; 
+    }
+    #altura{
+        height: 250px;
+    }
